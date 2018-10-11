@@ -1,6 +1,6 @@
 # SHARK-Changelog
 
-<b><u> UNRELEASED </b></u>
+# <b><u> UNRELEASED </b></u>
 
 Changed
   - Translation option in Questionnaire Builder
