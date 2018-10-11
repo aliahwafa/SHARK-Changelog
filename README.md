@@ -1,9 +1,8 @@
 # SHARK-Changelog
 
-## [UNRELEASED]
+## Unreleased
 
-<b>11.10.2018 </b> <br>
-<b>Version 1.2.3</b>
+## Version 1.2.3 - 11.10.2018
 
 ### Released to DEV
   - Translation option in Questionnaire Builder
@@ -15,7 +14,8 @@
   - Filter added for search project
   - have option to add question to combine in Combine Question and RQPA question type
   
-### Fixed in LIVE 
+### Fixed in DEV 
   - Performance issue - page loads faster
   - Page refresh and stays at the same question when logic is added
   - SAPA/HAPA logic dissapeared when save after edit logic
+  - 
