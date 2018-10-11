@@ -1,21 +1,15 @@
 # SHARK-Changelog
 
-## Unreleased
+## Version 1.2.3 - 05.09.2018
 
-## Version 1.2.3 - 11.10.2018
+## New Feature
+- Translation for Apps - Released in Dev
+- Loading ring when page loads - Released in Dev
 
-### Released to DEV
-  - Translation option in Questionnaire Builder
-  - Loading ring when page is loading
-  - Launch App Test Function		
- 
-### Released to LIVE
-  - Edit function from project preview
-  - Filter added for search project
-  - have option to add question to combine in Combine Question and RQPA question type
-  
-### Fixed in DEV 
-  - Performance issue - page loads faster
-  - Page refresh and stays at the same question when logic is added
-  - SAPA/HAPA logic dissapeared when save after edit logic
-  - 
+## Bug Fixing
+- Performance issue - Fixed in Dev and Live
+- Page stays at the same question after logic is added - Fixed in Dev and Live
+- SAPA/HAPA logic missing when logic is edited - Fixed in Dev
+
+## Version 1.2.4 - 11.10.2018
+- 
